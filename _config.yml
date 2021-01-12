@@ -28,6 +28,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gajeshbht
 github_username:  gajeshbhat
 
+ # Social Links 
+social_links:
+  LinkedIn:
+    title: "LinkedIn" 
+    url: https://www.linkedin.com/in/gajeshbhat/
+  Github:
+    title: "Github"  
+    url: https://github.com/gajeshbhat
+  Dev.to:
+    title: "Dev.to"  
+    url: https://dev.to/gajesh
+
 # Build settings
 theme: jekyll-athena
 plugins:

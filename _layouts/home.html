@@ -11,6 +11,8 @@
 
         <div class="right absolute-lg right-0 top-0">
           <ul class="mt-2 mr-2 mr-lg-3">
+           
+            <!-- Links to pages-->
             {% for my_page in site.pages %}
               {% if my_page.title %}
               <li class="inline-block block-lg text-right ml-1 ml-lg-0">
@@ -18,15 +20,18 @@
               </li>
               {% endif %}
             {% endfor %}
+           
+            <!-- Social Links -->
             <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-              <a class="italic no-underline h4 font-smoothing" href="#">LinkedIn</a>
+              <a class="italic no-underline h4 font-smoothing" href="https://www.linkedin.com/in/gajeshbhat/" target="_blank">LinkedIn</a>
             </li>
             <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-              <a class="italic no-underline h4 font-smoothing" href="#">Github</a>
+              <a class="italic no-underline h4 font-smoothing" href="https://github.com/gajeshbhat" target="_blank">Github</a>
             </li>
             <li class="inline-block block-lg text-right ml-1 ml-lg-0">
-              <a class="italic no-underline h4 font-smoothing" href="#">Dev.to</a>
+              <a class="italic no-underline h4 font-smoothing" href="https://dev.to/gajesh" target="_blank">Dev.to</a>
             </li>
+
           </ul>
         </div>
 
@@ -39,12 +44,16 @@
             </div>
 
           </div>
-        {{ content }}
+        
+          {{ content }}
 
         </div>
       </header>
+      
+      <!-- Limited Blog Roll -->
 
       <div class="container mx-auto px-2 py-2">
+        <h2> Latest from my blog : </h2>
         {% for post in site.posts limit:2 %}
           {% include post_block.html %}
         {% endfor %}
