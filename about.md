@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was born and brought up in a small coastal town in the southwest of India. I have always been excited about learning new things and understanding new ideas. I was interested in working with computers from an early age, and hence my higher education has been mostly in computer science. I also love documenting my experiences in my blog on the art and science of software.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I do not read about software engineering literature, I like to read non-fiction, history, and political economy. My other hobbies include watching documentaries, listening to podcasts and audiobooks. When I am outdoors, I like to go for a run, hike the nearby mountains and go on long walks in nature parks and trails.
