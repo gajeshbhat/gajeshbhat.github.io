@@ -21,7 +21,7 @@
 title: Gajesh Bhat
 email: gajeshbht@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer who loves to read, write and learn new things.My interests are in building scaleable, intelligent and distributed systems. I am speicifcally interested in end-to-end Software Engineering, including but not limited to Software Requirements, Design, Architecture, Quality and Agile Processes (Scrum).
+  Software Engineer who loves to read, write and learn new things. My interests are in building scaleable, intelligent and distributed systems. I am speicifcally interested in end-to-end Software Engineering, including but not limited to Software Requirements, Design, Architecture, Quality and Agile Processes (Scrum).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gajeshbht
