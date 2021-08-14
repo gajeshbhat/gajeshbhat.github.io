@@ -21,10 +21,10 @@
 title: Gajesh Bhat  
 email: gajeshbht@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer who likes to read, write and learn. My interests are in building large-scale distributed systems.
+  I am passionate about the art and science of software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gajeshbhat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gajeshbht
+twitter_username: gajeshbhat
 github_username:  gajeshbhat
 
 

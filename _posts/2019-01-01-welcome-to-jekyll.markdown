@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Mardown Syntax for this blog"
-date:   2021-01-12 11:28:10 -0500
+title:  "Hello - A new blog"
+date:   2019-01-01 10:00:00 -0500
 categories: misc
-excerpt: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+excerpt: I forget stuff. So I put it here.
 ---
+
+Below are for my own notes and references.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
