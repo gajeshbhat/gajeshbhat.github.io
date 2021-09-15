@@ -25,4 +25,9 @@ Working with Legacy Code by [Michael Feathers](https://www.amazon.ca/Working-Eff
 2. [Regular expressions Tutorial](https://www.youtube.com/watch?v=sa-TUpSx1JA)
 3. [Redhat Developer Cheat Sheets - Check Linux Cheat Sheets](https://developers.redhat.com/cheatsheets)
 
+# Other Practices and Studies
+1. [Strangulation Strategy to Modernize Legacy Code](https://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/)
+2. [Legacy Rehab Page](https://martinfowler.com/tags/legacy%20rehab.html)
+3. [Things You Should never do by Joel](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+4. [Rewrite ? Maybe you should](https://signalvnoise.com/posts/3959-rewrite-why-basecamp-3-is-a-brand-new-code)
 ---
