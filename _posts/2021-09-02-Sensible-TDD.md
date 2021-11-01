@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sensible TDD"
-date:   2021-08-01 12:00
+date:   2021-09-02 12:00
 categories: tdd, refactoring
 excerpt: Avoiding the cargo cult.
 ---
