@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on Docker"
-date:   2021-08-01 10:00
+date:   2021-07-15 10:00
 categories: distributed
 excerpt: Small and efficient way to model distributed systems.
 ---

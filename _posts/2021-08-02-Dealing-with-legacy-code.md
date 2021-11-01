@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Legacy Code"
-date:   2021-08-01 12:00
+date:   2021-08-02 12:00
 categories: legacy, refactoring
 excerpt: Making lemonade out of lemons.
 ---
