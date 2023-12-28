@@ -5,7 +5,9 @@
 layout: home
 ---
 
-Hello there! I am Gajesh. I work as a DevOps Engineer at [Fortinet](https://www.fortinet.com/). I am passionate about the art and science of software and often write about it in my blog.
+Hello there! I am Gajesh. I am a dedicated and innovative Software Engineer specializing in Systems Integration Engineering and DevOps. With a robust background in developing and maintaining large-scale applications, I excel in creating sophisticated CI/CD pipelines and robust Build, Test and Release frameworks and processes. 
+
+I currently work as a DevOps Engineer at [Lumotive](https://www.lumotive.com/) where I spearhead the Build, Configuration, and Release Engineering activities, playing a pivotal role in shaping the company's DevOps infrastructure from the ground up. Previously, I worked at [Fortinet's](https://www.fortinet.com/) Threat Intelligence Division [Fortiguard Labs](https://www.fortinet.com/fortiguard/labs)  helping build and maintain the infrastructure pivotal in testing, verifying, and releasing product updates and antivirus signatures for Fortinet's global customer base.
 
 ### Get in touch: 
 1. Education and Professional history on [LinkedIn](https://www.linkedin.com/in/gajeshbhat/)
